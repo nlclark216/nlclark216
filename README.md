@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on UX Web Development projects
 - 📫 How to reach me - nlclark216@gmail.com
 - 😄 Pronouns: she/they
-- ⚡ Fun fact: my college major was Theatre, I was a Stage Manager for a few years
+- ⚡ Fun fact: my college major was Theatre, I was a Stage Manager
 
 <!---
 nlclark216/nlclark216 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
